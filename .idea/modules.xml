@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Armata/Armata.iml" filepath="$PROJECT_DIR$/Armata/Armata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clock/Clock.iml" filepath="$PROJECT_DIR$/Clock/Clock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Litery/Litery.iml" filepath="$PROJECT_DIR$/Litery/Litery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nauka.iml" filepath="$PROJECT_DIR$/Nauka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Orders/Orders.iml" filepath="$PROJECT_DIR$/Orders/Orders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PomiarCzasu/PomiarCzasu.iml" filepath="$PROJECT_DIR$/PomiarCzasu/PomiarCzasu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/Student.iml" filepath="$PROJECT_DIR$/Student/Student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tablice/tablice.iml" filepath="$PROJECT_DIR$/tablice/tablice.iml" />
+    </modules>
+  </component>
+</project>
